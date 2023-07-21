@@ -1,0 +1,15 @@
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/obj/Debug/net7.0/slidingWindowLongestSubstring.csproj.AssemblyReference.cache
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/obj/Debug/net7.0/slidingWindowLongestSubstring.GeneratedMSBuildEditorConfig.editorconfig
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/obj/Debug/net7.0/slidingWindowLongestSubstring.AssemblyInfoInputs.cache
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/obj/Debug/net7.0/slidingWindowLongestSubstring.AssemblyInfo.cs
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/obj/Debug/net7.0/slidingWindowLongestSubstring.csproj.CoreCompileInputs.cache
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/bin/Debug/net7.0/slidingWindowLongestSubstring
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/bin/Debug/net7.0/slidingWindowLongestSubstring.deps.json
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/bin/Debug/net7.0/slidingWindowLongestSubstring.runtimeconfig.json
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/bin/Debug/net7.0/slidingWindowLongestSubstring.dll
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/bin/Debug/net7.0/slidingWindowLongestSubstring.pdb
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/obj/Debug/net7.0/slidingWindowLongestSubstring.dll
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/obj/Debug/net7.0/refint/slidingWindowLongestSubstring.dll
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/obj/Debug/net7.0/slidingWindowLongestSubstring.pdb
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/obj/Debug/net7.0/slidingWindowLongestSubstring.genruntimeconfig.cache
+/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/obj/Debug/net7.0/ref/slidingWindowLongestSubstring.dll

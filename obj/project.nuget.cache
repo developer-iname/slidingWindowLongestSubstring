@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ctb4Vgt/VGMWVyr4agTkxLKZXvpTh86YcGIpDRTJkKo+8EQkWw7/XxiyRKm9DaaYzOlvGC737k3Qpxob5rcNw==",
+  "success": true,
+  "projectFilePath": "/home/Owner/Documents/dotNet/slidingWindowLongestSubstring/slidingWindowLongestSubstring.csproj",
+  "expectedPackageFiles": [
+    "/home/Owner/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
