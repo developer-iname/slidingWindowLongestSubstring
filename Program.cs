@@ -24,7 +24,7 @@ class Solution
                 solutionStringBuilder.Remove(0, indexOfChar + 1);
             }
             solutionStringBuilder.Append(charArrayFromString[right]);
-            Math.Max(maxSubstring, solutionStringBuilder.Length);
+            maxSubstring = Math.Max(maxSubstring, solutionStringBuilder.Length);
         }
         return maxSubstring;
     }   
